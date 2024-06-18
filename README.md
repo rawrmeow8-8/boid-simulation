@@ -28,5 +28,5 @@ The simulation follows three main rules to achieve flocking behavior:
 
 2. **Clone Repository**:
    ```sh
-   git clone https://github.com/your-username/boid-simulation.git
+   git clone https://github.com/rawrmeow8-8/boid-simulation.git
    cd boid-simulation
